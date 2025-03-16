@@ -16,4 +16,3 @@ To Note:	there are short forms are being used for IR ISU and added % sign which 
 
 
 Thank you!!
-Footer
